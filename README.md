@@ -1,3 +1,3 @@
 # Version Control with Git
 
-Using git commands to intercat between local and remote repos.
+Using git commands to interact between local and remote repos.
